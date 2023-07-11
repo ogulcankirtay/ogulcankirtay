@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me **ogulcankirtay8@gmail.com**
+- 📫 How to reach me **ogulcan.kirtay@veripark.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
