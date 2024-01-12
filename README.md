@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogulcankirtay&label=Profile%20views&color=0e75b6&style=flat" alt="ogulcankirtay" /> </p>
 
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently working on **Kotlin**
 
 - 📫 How to reach me **ogulcan.kirtay@veripark.com**
 
